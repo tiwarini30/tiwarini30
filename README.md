@@ -1,4 +1,16 @@
- # Hi, I'm Nitish Tiwari 👋
+- 👋 Hi, I’m Nitish
+- 👀 I’m interested in cricket/kabadiii 
+- 🌱 I am proficient in Java and Spring boot 
+- 💞️ I’m looking to collaborate on any project regarding Java and Spring Boot.
+- 📫 Reach me on LinkedIn my profile 
+- 😄 Pronouns: He/Him
+- ⚡
+
+
+
+
+
+<!-- # Hi, I'm Nitish Tiwari 👋
 
 ## About Me
 
@@ -11,7 +23,7 @@ Full-stack developer passionate about **Java**, **Spring Boot**, **Data Structur
 ---
 
 ## 🛠️ Technical Skills
-
+,
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -91,4 +103,4 @@ Full-stack developer passionate about **Java**, **Spring Boot**, **Data Structur
 
 **Eat.Sleep.Code.Repeat** ✨
 
-</div>
+</div> -->
