@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nitish
-- 👀 I’m interested in cricket/kabadiii 
 - 🌱 I am proficient in Java and Spring boot 
 - 💞️ I’m looking to collaborate on any project regarding Java and Spring Boot.
-- 📫 Reach me on LinkedIn my profile 
+- 📫 Reach me on LinkedIn my profile
+-  👀 I’m interested in cricket/kabadiii 
 - 😄 Pronouns: He/Him
 - ⚡
 
